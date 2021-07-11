@@ -1,0 +1,13 @@
+{
+  "name": "serverless_oauth",
+  "version": "0.0.0",
+  "description": "aws lambda oauth function",
+  "main": "index.js",
+  "repository": "https://github.com/SimDaeSoo/serverless_oauth.git",
+  "author": "simdaesoo <tlaeotn123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "querystring": "^0.2.1"
+  }
+}
